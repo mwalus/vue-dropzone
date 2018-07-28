@@ -57,6 +57,5 @@
 </script>
 
 <style scoped>
-    @import url('~dropzone/dist/dropzone.css');
     @import 'https://fonts.googleapis.com/css?family=Roboto';
 </style>

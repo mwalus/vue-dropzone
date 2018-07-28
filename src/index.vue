@@ -348,8 +348,6 @@
 </script>
 
 <style lang="less">
-    @import url('~dropzone/dist/dropzone.css');
-
     .vue-dropzone {
         border: 2px solid #E5E5E5;
         font-family: 'Arial', sans-serif;
